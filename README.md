@@ -2,9 +2,9 @@
 
 # Hi there, I'm Goutham Balaji P S 👋
 
-### 🚀 Full-Stack Developer | AI-Native Engineer | Building with React, Node.js & LLMs
+### 🚀 Full-Stack Developer | Building with React, Node.js & LLMs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+TypeScript);AI-Native+Engineer+%7C+LLM+Tooling+Enthusiast;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+TypeScript);AI+Tooling+%26+LLM+Enthusiast;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -31,7 +31,7 @@
 - 💼 Certified in Full Stack Web Development with AI Tools — IIT Madras Pravartak × GUVI HCL
 - 🔭 Currently building **AI-powered full-stack applications** (multi-LLM tools, prompt evaluation systems, real-time platforms)
 - 🌱 Actively learning LLM internals — Transformers, nanoGPT, LoRA fine-tuning
-- 🎯 Looking for **Full Stack Developer / AI Native Engineer** roles in **Bengaluru & Chennai**
+- 🎯 Looking for **Full Stack Developer** roles in **Bengaluru & Chennai**
 - ⚡ Immediate availability — open to relocation and remote opportunities
 - ♟️ Fun fact: I'm a casual chess player and track Indian equities for fun in my downtime
 
@@ -61,6 +61,7 @@
 **Database & Caching**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Infra, Messaging & Tools**
@@ -111,7 +112,7 @@
 
 ### 📫 Let's Connect
 
-I'm actively seeking **Full Stack Developer / AI Native Engineer** roles — feel free to reach out!
+I'm actively seeking **Full Stack Developer** roles — feel free to reach out!
 
 <a href="https://www.linkedin.com/in/gouthambalajips/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
