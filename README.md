@@ -1,25 +1,122 @@
-<h1 align="center">Hi 👋, I'm Goutham Balaji P S</h1>
-<h3 align="center">A passionate full stack developer from Coimbatore</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthambalaji03&label=Profile%20views&color=0e75b6&style=flat" alt="gouthambalaji03" /> </p>
+# Hi there, I'm Goutham Balaji P S 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthambalaji03" alt="gouthambalaji03" /></a> </p>
+### 🚀 Full-Stack Developer | AI-Native Engineer | Building with React, Node.js & LLMs
 
-- 🌱 I’m currently learning **Mern stack**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+TypeScript);AI-Native+Engineer+%7C+LLM+Tooling+Enthusiast;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 💬 Ask me about **Java script, react js, node js, mongoDB, C++**
+</div>
 
-- 📫 How to reach me **26gouthamba@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/gouthambalajips/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Gouthambalaji03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://goutham-balaji-p-s-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2EA3F2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouthambalaji03&show_icons=true&locale=en&layout=compact" alt="gouthambalaji03" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthambalaji03&show_icons=true&locale=en" alt="gouthambalaji03" /></p>
+- 🎓 2025 BE Graduate in Biomedical Engineering, PSG College of Technology, Coimbatore
+- 💼 Certified in Full Stack Web Development with AI Tools — IIT Madras Pravartak × GUVI HCL
+- 🔭 Currently building **AI-powered full-stack applications** (multi-LLM tools, prompt evaluation systems, real-time platforms)
+- 🌱 Actively learning LLM internals — Transformers, nanoGPT, LoRA fine-tuning
+- 🎯 Looking for **Full Stack Developer / AI Native Engineer** roles in **Bengaluru & Chennai**
+- ⚡ Immediate availability — open to relocation and remote opportunities
+- ♟️ Fun fact: I'm a casual chess player and track Indian equities for fun in my downtime
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthambalaji03&" alt="gouthambalaji03" /></p>
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Database & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infra, Messaging & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / LLM Tooling**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **AI Debate Arena** | Real-time multi-LLM debate platform integrating GPT-4o, Claude, Gemini & Llama |
+| **Online Assessment Platform** | Webcam-proctored exam system with role-based access control |
+| **E-commerce Microservices** | Kafka-driven microservices architecture; cut response time from 10s to 3s |
+| **Bloggify** | Full-featured role-based blogging platform |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gouthambalaji03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthambalaji03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthambalaji03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthambalaji03&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm actively seeking **Full Stack Developer / AI Native Engineer** roles — feel free to reach out!
+
+<a href="https://www.linkedin.com/in/gouthambalajips/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+⭐️ From [Gouthambalaji03](https://github.com/Gouthambalaji03)
+
+</div>
